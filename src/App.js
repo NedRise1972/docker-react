@@ -8,6 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Hi there! the world
+          This is my first autodeployment in AWS!
         </p>
         <a
           className="App-link"
